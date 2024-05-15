@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "296c",
+      "name": "tony",
+      "email": "tony@test.com",
+      "password": "tony123"
+    },
+    {
+      "id": "2492",
+      "name": "Bruce",
+      "email": "bruce@test.com",
+      "password": "bruce123"
+    },
+    {
+      "id": "a876",
+      "name": "Rehana",
+      "email": "rehana@test.com",
+      "password": "rehana123"
+    }
+  ],
+  "restaurant": [
+    {
+      "id": "1",
+      "name": "Burger king",
+      "contact": 564894,
+      "address": "Noida"
+    },
+    {
+      "id": "2",
+      "name": "Barista",
+      "address": "Mumbai",
+      "contact": "962547"
+    },
+    {
+      "name": "KFC",
+      "address": "Gurgaon",
+      "contact": "486466",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Dominos",
+      "address": "Delhi",
+      "contact": "757555"
+    }
+  ]
+}
